@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729168889 source:c:\users\kwesi\onedrive\desktop\c programming tutorials\mtnmomo__\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
